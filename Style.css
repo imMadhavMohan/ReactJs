@@ -1,0 +1,14 @@
+.primary{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secondry{
+    background-color: rgb(191, 216, 24);
+    color:rgb(3, 44, 44);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font-xl{
+    font-size: small;
+}
